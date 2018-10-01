@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\obj\Debug\AreaPerimeter.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\obj\Debug\ChangingAreaAndPerimeter.frmChangingAreaAndPerimeter.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\obj\Debug\ChangingAreaAndPerimeter.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\obj\Debug\AreaPerimeter.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\bin\Debug\ChangingAreaAndPerimeter.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\bin\Debug\ChangingAreaAndPerimeter.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\bin\Debug\ChangingAreaAndPerimeter.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\obj\Debug\ChangingAreaAndPerimeter.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\ChangingAreaAndPerimeter\ChangingAreaAndPerimeter\obj\Debug\ChangingAreaAndPerimeter.pdb

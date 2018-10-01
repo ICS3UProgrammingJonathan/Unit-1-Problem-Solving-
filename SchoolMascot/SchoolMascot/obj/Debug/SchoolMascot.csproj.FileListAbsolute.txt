@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\bin\Debug\SchoolMascot.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\bin\Debug\SchoolMascot.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\bin\Debug\SchoolMascot.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.frmSchoolMascot.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\SchoolMascot\SchoolMascot\obj\Debug\SchoolMascot.pdb

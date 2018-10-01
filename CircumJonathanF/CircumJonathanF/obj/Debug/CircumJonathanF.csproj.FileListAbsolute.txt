@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\bin\Debug\CircumJonathanF.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\bin\Debug\CircumJonathanF.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\bin\Debug\CircumJonathanF.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\obj\Debug\CircumJonathanF.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\obj\Debug\CircumJonathanF.frmCircumference.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\obj\Debug\CircumJonathanF.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\obj\Debug\CircumJonathanF.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\obj\Debug\CircumJonathanF.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Fok, Jonathan (s457191)\Unit 1 (Problem Solving)\CircumJonathanF\CircumJonathanF\obj\Debug\CircumJonathanF.pdb
